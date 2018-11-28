@@ -474,6 +474,54 @@
                                 </li>
 
                                 <li>
+                                    <img src="img/photos/connect-original.jpg" alt="">
+                                    <div class="slide_description_wrapper slider_textblock_center pixel-overlay-pixel7inter">
+                                        <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
+                                            <div data-animation="fadeInUp" align="center">
+                                                <div>
+                                                    <div style="padding:10px; width: 900px;">
+                                                        <h3 style="margin-top: 0;">&nbsp;</h3>
+                                                        <img src="img/illustrations/PitchDeck-TechOverview@4x.png" height="600" />
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+
+                                <li>
+                                    <img src="img/photos/connect-original.jpg" alt="">
+                                    <div class="slide_description_wrapper slider_textblock_center pixel-overlay-pixel7inter">
+                                        <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
+                                            <div data-animation="fadeInUp" align="center">
+                                                <div>
+                                                    <div style="padding:10px; width: 900px;">
+                                                        <h3 style="margin-top: 0;">&nbsp;</h3>
+                                                        <img src="img/illustrations/PitchDeck-PlatformModules@4x.png" height="600" />
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+
+                                <li>
+                                    <img src="img/photos/connect-original.jpg" alt="">
+                                    <div class="slide_description_wrapper slider_textblock_center pixel-overlay-pixel7inter">
+                                        <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
+                                            <div data-animation="fadeInUp" align="center">
+                                                <div>
+                                                    <div style="padding:10px; width: 900px;">
+                                                        <h3 style="margin-top: 0;">&nbsp;</h3>
+                                                        <img src="img/illustrations/PitchDeck-TechStack@4x.png" height="600" />
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+
+                                <li>
                                     <img src="img/photos/contacts-original.jpg" alt="">
                                     <div class="slide_description_wrapper slider_textblock_center pixel-overlay-pixel7inter">
                                         <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
